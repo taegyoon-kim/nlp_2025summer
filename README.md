@@ -1,6 +1,6 @@
 #  2025 Summer KAPS Methods Workshop: Text-as-Data
 
-![](https://github.com/taegyoon-kim/24summer_text/blob/main/2025_kaps_summer_workshop.jpg)
+![](https://github.com/taegyoon-kim/nlp_2025summer/blob/main/2025_kaps_summer_workshop.jpg)
 
 
 ## Time and location
