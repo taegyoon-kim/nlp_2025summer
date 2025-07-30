@@ -1,4 +1,4 @@
-#  2025 Summer KAPS Methods Workshop: Text-as-Data
+#  2025 Summer KAPS Methods Workshop: Text-as-Data and NLP for Social Science Research
 
 ![](https://github.com/taegyoon-kim/nlp_2025summer/blob/main/2025_kaps_summer_workshop.jpg)
 
@@ -12,9 +12,10 @@
 ## Overview
 
 This workshop, titled "Text-as-Data" (or "텍스트 분석"), introduces social science students to a key subset of essential concepts and techniques in text-as-data.  
-- The workshop will blend theoretical understanding with practical, hands-on experience. The workshop consists of two lectures (2.5 hours each cover two sessions). 
-- The first two sessions will focus on pre-processing and representings texts, covering text normalization, vector semantics model, static and contextual word embeddings, and similarity measures
-- The next two sessions is more application-focused, discussing using contextual embeddings for topic modeling, and using generative models for text classification.
+- The workshop will blend theoretical understanding with practical, hands-on experience.
+- The workshop consists of two lectures (2.5 hours each cover two sessions). 
+- The first two sessions will focus on pre-processing and representing texts, covering text normalization, vector semantics models, static and contextual word embeddings, and similarity measures.
+- The next two sessions are more application-focused, discussing the use of contextual embeddings for topic modeling and generative models for text classification.
 
 **Note that the workshop is intended as a broad introduction to text-as-data and NLP for social science research. For a more comprehensive, semester-length course, please refer to [NLP for Humanities and Social Sciences](https://github.com/taegyoon-kim/nlp_25spring).**
 
